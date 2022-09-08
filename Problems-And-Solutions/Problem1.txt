@@ -1,0 +1,9 @@
+Write a program to count 5 to 15 using PHP loop
+Description:
+Write a Program to display count, from 5 to 15 using PHP loop as given below.
+
+Rules & Hint
+
+You can use “for” or “while” loop
+You can use variable to initialize count
+You can use html tag for line break
